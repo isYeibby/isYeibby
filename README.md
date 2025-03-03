@@ -1,12 +1,11 @@
-Hi there
+# About Me
 
-About me
+🐸 I use Java and C  
+🌱 I’m currently learning at UNSIS University  
+⚡ I enjoy PC building and customizing operating systems  
 
-🐸 I use Java and C 
-🌱 I’m currently learning at UNSIS University 
-📫 How to reach me: you con write to sYeibbyS@outlook.com 
-⚙️ I like PC building and SO customization
+## Contact
 
-Social
+📫 You can reach me at: [sYeibbyS@outlook.com](mailto:sYeibbyS@outlook.com)  
+💬 Discord: @yeibbyskl
 
-discord @yeibbyskl
