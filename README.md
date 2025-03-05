@@ -22,7 +22,7 @@
 
 ## 📱 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/yeibby" target="_blank">
     <img src="assets/img/linkedin.svg" width="50" alt="LinkedIn"/>
   </a>
   <a href="mailto:sYeibbyS@outlook.com" target="_blank">
