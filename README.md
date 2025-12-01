@@ -125,7 +125,6 @@
 <div align="center" style="margin-top: 40px;">
   <div style="background: linear-gradient(135deg, #FF6B9D, #4ECDC4); padding: 20px; border-radius: 15px; color: white; font-size: 0.9em; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
     <p>Thank you for visiting my profile</p>
-    <p>City Pop Aesthetic | Bento Grid Style | Clean Design</p>
   </div>
 </div>
 
