@@ -6,7 +6,7 @@
   
   <!-- Main Banner with City Pop Aesthetic -->
   <div style="background: linear-gradient(135deg, #FF6B9D, #4ECDC4, #45B7D1, #FFA07A); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <h1 style="color: white; font-size: 2.5em; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Yhosmar</h1>
+    <h1 style="color: white; font-size: 2.5em; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Yeibby</h1>
     <p style="color: white; font-size: 1.2em; margin: 10px 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">Developer | Cat Lover | Linux Enthusiast</p>
   </div>
 
@@ -75,58 +75,36 @@
     </div>
   </div>
 
-  <!-- Tools & Systems Bento Card -->
+  <!-- Development Tools Bento Card -->
   <div style="background: linear-gradient(135deg, #D4A5FF, #FFA5D8); padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.1); border: 2px solid #9B59B6;">
     <h3 style="color: #9B59B6; margin-top: 0; border-bottom: 2px solid #9B59B6; padding-bottom: 10px;">
-      Tools & Systems
+      Development Tools
     </h3>
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-      <!-- Development Tools -->
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align: center;">
       <div>
-        <h4 style="color: #9B59B6; margin: 0 0 10px 0; font-size: 0.9em;">Development Tools</h4>
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; text-align: center;">
-          <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" alt="Figma"/>
-            <div style="font-size: 0.75em; margin-top: 5px;">Figma</div>
-          </div>
-          <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
-            <div style="font-size: 0.75em; margin-top: 5px;">Git</div>
-          </div>
-          <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/>
-            <div style="font-size: 0.75em; margin-top: 5px;">GitHub</div>
-          </div>
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+        <div style="font-size: 0.8em; margin-top: 8px; font-weight: 500;">Figma</div>
       </div>
-      
-      <!-- Operating Systems -->
       <div>
-        <h4 style="color: #9B59B6; margin: 0 0 10px 0; font-size: 0.9em;">Operating Systems</h4>
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; text-align: center;">
-          <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35" height="35" alt="Android"/>
-            <div style="font-size: 0.75em; margin-top: 5px;">Android</div>
-          </div>
-          <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" height="35" alt="Windows"/>
-            <div style="font-size: 0.75em; margin-top: 5px;">Windows</div>
-          </div>
-          <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="Linux"/>
-            <div style="font-size: 0.75em; margin-top: 5px;">Linux</div>
-          </div>
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+        <div style="font-size: 0.8em; margin-top: 8px; font-weight: 500;">Git</div>
+      </div>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+        <div style="font-size: 0.8em; margin-top: 8px; font-weight: 500;">GitHub</div>
       </div>
     </div>
   </div>
 
-  <!-- Contact Bento Card -->
-  <div style="background: linear-gradient(135deg, #FFEB3B, #4CAF50); padding: 25px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.1); border: 2px solid #FF9800; grid-column: span 2;">
+</div>
+
+<!-- Contact Section -->
+<div align="center" style="margin: 40px auto; max-width: 800px;">
+  <div style="background: linear-gradient(135deg, #FFEB3B, #4CAF50); padding: 30px; border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.1); border: 2px solid #FF9800;">
     <h3 style="color: #FF9800; margin-top: 0; border-bottom: 2px solid #FF9800; padding-bottom: 10px;">
       Contact
     </h3>
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align: center;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
       <a href="https://www.linkedin.com/in/yeibby" target="_blank" style="display: flex; flex-direction: column; align-items: center; gap: 8px; text-decoration: none; color: #333; background: white; padding: 15px 10px; border-radius: 10px; transition: all 0.3s ease; border: 1px solid #e0e0e0;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28"/>
         <span style="font-weight: 500; font-size: 0.85em;">LinkedIn</span>
@@ -141,34 +119,16 @@
       </a>
     </div>
   </div>
-
 </div>
 
 <!-- Footer with Japanese Aesthetic -->
 <div align="center" style="margin-top: 40px;">
   <div style="background: linear-gradient(135deg, #FF6B9D, #4ECDC4); padding: 20px; border-radius: 15px; color: white; font-size: 0.9em; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
     <p>Thank you for visiting my profile</p>
+    <p>City Pop Aesthetic | Bento Grid Style | Clean Design</p>
   </div>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,25,12,2&height=120&section=footer&animation=fadeIn&reversal=true"/>
 </div>
-
-<style>
-  a:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-  }
-  
-  h3 {
-    font-family: 'Arial', sans-serif;
-    letter-spacing: 0.5px;
-  }
-  
-  @media (max-width: 768px) {
-    .bento-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
