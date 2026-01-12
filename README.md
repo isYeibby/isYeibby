@@ -93,7 +93,7 @@
 <tr>
 <td width="50%" align="center">
 
-### GitHub Stats
+  ### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api? username=isYeibby&show_icons=true&theme=vue&title_color=3b82f6&icon_color=60a5fa&text_color=1e3a8a&bg_color=f0f9ff&hide_border=true" alt="GitHub Stats" />
 
@@ -103,6 +103,7 @@
 ### GitHub Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=isYeibby&ring=3b82f6&fire=60a5fa&currStreakLabel=1e3a8a&sideLabels=1e3a8a&background=f0f9ff&border=3b82f6" alt="GitHub Streak" />
+
 
 </td>
 </tr>
